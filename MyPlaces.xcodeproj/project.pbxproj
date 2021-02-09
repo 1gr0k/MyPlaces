@@ -15,6 +15,7 @@
 		1A54B0E825D07CF000668CFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A3B9BDF25D0146C00DAC69A /* Assets.xcassets */; };
 		1A54B0EF25D13B7700668CFF /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A54B0EE25D13B7700668CFF /* CustomTableViewCell.swift */; };
 		1A54B0F225D15F4A00668CFF /* PlaceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A54B0F125D15F4A00668CFF /* PlaceModel.swift */; };
+		1A54B0F525D2740C00668CFF /* NewPlaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A54B0F425D2740C00668CFF /* NewPlaceViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		1A3B9BE425D0146C00DAC69A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A54B0EE25D13B7700668CFF /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		1A54B0F125D15F4A00668CFF /* PlaceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceModel.swift; sourceTree = "<group>"; };
+		1A54B0F425D2740C00668CFF /* NewPlaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPlaceViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1A3B9BD625D0146C00DAC69A /* AppDelegate.swift */,
 				1A3B9BD825D0146C00DAC69A /* SceneDelegate.swift */,
 				1A3B9BDA25D0146C00DAC69A /* ViewController.swift */,
+				1A54B0F425D2740C00668CFF /* NewPlaceViewController.swift */,
 				1A54B0F125D15F4A00668CFF /* PlaceModel.swift */,
 				1A54B0EE25D13B7700668CFF /* CustomTableViewCell.swift */,
 				1A3B9BDC25D0146C00DAC69A /* Main.storyboard */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A3B9BDB25D0146C00DAC69A /* ViewController.swift in Sources */,
+				1A54B0F525D2740C00668CFF /* NewPlaceViewController.swift in Sources */,
 				1A3B9BD725D0146C00DAC69A /* AppDelegate.swift in Sources */,
 				1A54B0F225D15F4A00668CFF /* PlaceModel.swift in Sources */,
 				1A54B0EF25D13B7700668CFF /* CustomTableViewCell.swift in Sources */,
